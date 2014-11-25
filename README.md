@@ -19,5 +19,3 @@ We have a basic *Makefile* that will compile the two programs *test* and *bench*
 You only have to run *make* to compile both programs.
 
 The program *test* will check the correctness of computations. The program *bench* launches a series of benchmark that illustrates the performance of the different algorithms.
-
-
